@@ -1,9 +1,9 @@
 {
   "name": "remote-debugger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "remote-debugger",
   "keywords": [
-    "remote-debugger"
+    "debugger"
   ],
   "main": "index.js",
   "repository": {
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "node-ios-webkit-debug-proxy": "~1.0.0",
-    "reliable-logger": "~1.0.7",
+    "xlogger": "~1.0.0",
     "request-promise": "~2.0.1",
     "selenium-atoms": "~1.0.0",
     "ws": "~1.0.1",
