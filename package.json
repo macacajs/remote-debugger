@@ -1,11 +1,11 @@
 {
   "name": "remote-debugger",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "remote-debugger",
   "keywords": [
     "debugger"
   ],
-  "main": "index.js",
+  "main": "./lib/remote-debugger",
   "repository": {
     "type": "git",
     "url": "git://github.com/xudafeng/remote-debugger.git"
