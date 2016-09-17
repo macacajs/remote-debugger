@@ -1,6 +1,6 @@
 {
   "name": "remote-debugger",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "remote-debugger",
   "keywords": [
     "debugger"
@@ -8,7 +8,7 @@
   "main": "./lib/remote-debugger",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/remote-debugger.git"
+    "url": "git://github.com/macacajs/remote-debugger.git"
   },
   "dependencies": {
     "node-ios-webkit-debug-proxy": "~1.0.0",
@@ -20,11 +20,11 @@
   },
   "devDependencies": {
     "co-mocha": "*",
-    "mocha": "*",
-    "should": "*",
+    "istanbul": "^0.4.5",
     "jshint": "*",
-    "istanbul": "*",
-    "pre-commit": "1.1.1"
+    "mocha": "*",
+    "pre-commit": "1.1.1",
+    "should": "*"
   },
   "scripts": {
     "test": "make test",
@@ -33,9 +33,6 @@
   "pre-commit": [
     "jshint"
   ],
-  "homepage": "https://github.com/xudafeng/remote-debugger",
-  "author": "xudafeng",
-  "email": "xudafeng@126.com",
-  "blog": "http://xdf.me",
+  "homepage": "https://github.com/macacajs/remote-debugger",
   "license": "MIT"
 }
