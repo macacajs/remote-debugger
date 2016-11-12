@@ -1,6 +1,6 @@
 {
   "name": "remote-debugger",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "remote-debugger",
   "keywords": [
     "debugger"
@@ -11,6 +11,7 @@
     "url": "git://github.com/macacajs/remote-debugger.git"
   },
   "dependencies": {
+    "ios-utils": "^1.0.4",
     "node-ios-webkit-debug-proxy": "~1.0.0",
     "request-promise": "~2.0.1",
     "selenium-atoms": "~1.0.0",
