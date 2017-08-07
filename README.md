@@ -23,7 +23,7 @@
 
 ## Installment
 
-```shell
+``` bash
 $ npm i remote-debugger --save
 ```
 

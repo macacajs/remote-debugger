@@ -1,7 +1,7 @@
 {
   "name": "remote-debugger",
-  "version": "1.0.11",
-  "description": "remote-debugger",
+  "version": "1.0.12",
+  "description": "Node.js remote debugger",
   "keywords": [
     "debugger"
   ],
@@ -24,7 +24,7 @@
     "istanbul": "^0.4.5",
     "jshint": "*",
     "mocha": "*",
-    "pre-commit": "1.1.1",
+    "pre-commit": "*",
     "should": "*"
   },
   "scripts": {
