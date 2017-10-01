@@ -12,7 +12,7 @@
 [travis-url]: https://travis-ci.org/macacajs/remote-debugger
 [coveralls-image]: https://img.shields.io/coveralls/macacajs/remote-debugger.svg?style=flat-square
 [coveralls-url]: https://coveralls.io/r/macacajs/remote-debugger?branch=master
-[node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square
+[node-image]: https://img.shields.io/badge/node.js-%3E=_7-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
 [download-image]: https://img.shields.io/npm/dm/remote-debugger.svg?style=flat-square
 [download-url]: https://npmjs.org/package/remote-debugger
