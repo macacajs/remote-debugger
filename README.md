@@ -19,7 +19,7 @@
 
 > Node.js remote debugger
 
-[Remote Debugging Protocol](https://chromedevtools.github.io/debugger-protocol-viewer/)
+[Remote Debugging Protocol](//chromedevtools.github.io/debugger-protocol-viewer/)
 
 ## Installment
 
