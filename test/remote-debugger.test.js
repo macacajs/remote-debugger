@@ -1,9 +1,10 @@
 'use strict';
 
-var RemoteDebugger = require('..');
+const assert = require('assert');
+const RemoteDebugger = require('..');
 
 describe('test', function() {
   it('should be ok', function() {
-    RemoteDebugger.should.be.ok();
+    assert.ok(RemoteDebugger);
   });
 });

@@ -24,16 +24,15 @@
     "istanbul": "^0.4.5",
     "jshint": "*",
     "mocha": "*",
-    "pre-commit": "*",
-    "should": "*"
+    "pre-commit": "*"
   },
   "scripts": {
-    "test": "make test",
-    "jshint": "make jshint"
+    "test": "istanbul cover `npm bin`/_mocha",
+    "lint": "jshint .",
+    "ci": "npm run lint && npm run test"
   },
   "pre-commit": [
-    "jshint"
+    "lint"
   ],
-  "homepage": "https://github.com/macacajs/remote-debugger",
   "license": "MIT"
 }
