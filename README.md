@@ -31,11 +31,11 @@ $ npm i remote-debugger --save
 
 ## Contributors
 
-|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars1.githubusercontent.com/u/1044425?v=4" width="100px;"/><br/><sub><b>ziczhu</b></sub>](https://github.com/ziczhu)<br/>|[<img src="https://avatars0.githubusercontent.com/u/19307426?v=4" width="100px;"/><br/><sub><b>aloneszjl</b></sub>](https://github.com/aloneszjl)<br/>
-| :---: | :---: | :---: |
+|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars1.githubusercontent.com/u/1044425?v=4" width="100px;"/><br/><sub><b>ziczhu</b></sub>](https://github.com/ziczhu)<br/>|[<img src="https://avatars0.githubusercontent.com/u/19307426?v=4" width="100px;"/><br/><sub><b>aloneszjl</b></sub>](https://github.com/aloneszjl)<br/>|[<img src="https://avatars0.githubusercontent.com/in/29110?v=4" width="100px;"/><br/><sub><b>dependabot[bot]</b></sub>](https://github.com/apps/dependabot)<br/>|
+| :---: | :---: | :---: | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto upated at `Wed Apr 22 2020 16:18:20 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Thu Apr 23 2020 17:34:58 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
 
